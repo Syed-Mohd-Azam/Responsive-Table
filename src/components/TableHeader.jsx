@@ -16,7 +16,7 @@ const TableHeader = () => {
           </p>
           <div>
             <select
-              className="px-3 py-1 outline-none border-2 border-blue-400 rounded-md text-xs sm:text-sm md:text-base lg:text-xl"
+              className="px-3 py-1 outline-none border-2 border-blue-400 rounded-md text-xs sm:text-sm md:text-base lg:text-xl "
               id="dropdown font-semibold"
               value={selectedOption}
               onChange={handleSelectChange}
