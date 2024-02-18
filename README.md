@@ -20,5 +20,24 @@ Customize the table according to your data and styling preferences.
 Enjoy a responsive and visually appealing table in your web application!
 Dependencies
 Tailwind CSS: A utility-first CSS framework used for efficient styling.
+
+## Setup
+
+1. Clone the repository:
+
+   ```bash```
+   git clone https://github.com/Syed-Mohd-Azam/Video-Player-Project.git
+   
+2. Install dependencies:
+   
+   ->  cd video-player-project    
+   ->  npm install
+
+3. Start the application:
+   
+   npm run dev
+
+4. Open the app in your browser at http://localhost:5173
+   
 ## Project Link 
 Project Link : https://resonant-frangipane-1471b0.netlify.app/
