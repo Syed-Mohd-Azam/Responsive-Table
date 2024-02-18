@@ -8,7 +8,7 @@ const Table = () => {
             <div className="p-1.5 min-w-full inline-block align-middle">
               <div className="overflow-hidden">
                 <table className="min-w-full divide-y divide-gray-200 bg-purple-50">
-                  <thead>
+                  <thead className="bg-white">
                     <tr>
                       <th scope="col" className="py-3 ps-4">
                         <div className="flex items-center h-5">
@@ -27,67 +27,67 @@ const Table = () => {
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md  text-gray-500 uppercase font-bold"
                       >
                         ID
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md text-gray-500 uppercase font-bold"
                       >
                         Shipify#
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         DATE
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         STATUS
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         CUSTOMER
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         EMAIL
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         COUNTRY
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         SHIPPING
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-start text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-start text-md font-bold text-gray-500 uppercase"
                       >
                         SOURSE
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-end text-xs font-medium text-gray-500 uppercase whitespace-nowrap"
+                        className="px-6 py-3 text-end text-md font-bold text-gray-500 uppercase whitespace-nowrap"
                       >
                         ORDER TYPE
                       </th>
                       <th
                         scope="col"
-                        className="px-6 py-3 text-end text-xs font-medium text-gray-500 uppercase"
+                        className="px-6 py-3 text-end font-bold text-md text-gray-500 uppercase"
                       ></th>
                     </tr>
                   </thead>

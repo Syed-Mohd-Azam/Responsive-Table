@@ -8,7 +8,7 @@ const SearchSection = () => {
             What are you looking For?
           </p>
           <input
-            className="rounded-md bg-purple-50 py-1 px-3 outline-none w-full"
+            className="rounded-md bg-purple-50 py-1 px-3 outline-none w-full border-2 border-gray-400"
             type="search"
             placeholder="Search for category, mname,company,etc...."
           />
@@ -39,7 +39,7 @@ const SearchSection = () => {
           <MdOutlineKeyboardDoubleArrowDown className=" bg-purple-50 rounded-md  w-8 h-8" />
         </article>
         <article className="basis-3/12 mt-5">
-          <button className=" w-full bg-blue-400 rounded-md p-3 h-8 py-4"></button>
+          <button className=" w-full bg-blue-500 rounded-md p-3 h-8 py-4"></button>
         </article>
       </section>
     </>

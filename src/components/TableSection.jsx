@@ -3,7 +3,7 @@ import Table from "./Table";
 const TableSection = () => {
   return (
     <>
-      <section className="rounded-xl ">
+      <section className="rounded-xl bg-purple-50 mt-10">
         <TableHeader />
         <Table />
       </section>
