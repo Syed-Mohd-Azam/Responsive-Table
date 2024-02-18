@@ -20,4 +20,5 @@ Customize the table according to your data and styling preferences.
 Enjoy a responsive and visually appealing table in your web application!
 Dependencies
 Tailwind CSS: A utility-first CSS framework used for efficient styling.
-
+## Project Link 
+Project Link : https://resonant-frangipane-1471b0.netlify.app/
