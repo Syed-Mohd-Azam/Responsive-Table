@@ -36,9 +36,9 @@ const SearchSection = () => {
           </select>
         </article>
         <article className="mt-5 ">
-          <MdOutlineKeyboardDoubleArrowDown className=" bg-purple-50 rounded-md  w-8 h-8" />
+          <MdOutlineKeyboardDoubleArrowDown className=" bg-purple-50 rounded-md  w-8 h-10 mt-2 border-2 border-gray-400" />
         </article>
-        <article className="basis-3/12 mt-5">
+        <article className="basis-3/12 mt-7">
           <button className=" w-full bg-blue-500 rounded-md p-4 h-10 py-4"></button>
         </article>
       </section>
