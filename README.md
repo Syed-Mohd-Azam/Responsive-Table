@@ -26,7 +26,7 @@ Tailwind CSS: A utility-first CSS framework used for efficient styling.
 1. Clone the repository:
 
    ```bash```
-   git clone https://github.com/Syed-Mohd-Azam/Video-Player-Project.git
+   git clone https://github.com/Syed-Mohd-Azam/Responsive-Table.git
    
 2. Install dependencies:
    
