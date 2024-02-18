@@ -30,7 +30,7 @@ Tailwind CSS: A utility-first CSS framework used for efficient styling.
    
 2. Install dependencies:
    
-   ->  cd video-player-project    
+   ->  cd responsive-table    
    ->  npm install
 
 3. Start the application:
