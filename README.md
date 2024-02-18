@@ -1,4 +1,4 @@
-# Responsive Table Project
+# 🚀Responsive Table Project🧡!
 ## Overview
 This project is a responsive table implementation created using Tailwind CSS, following the design specifications provided in Figma UI. The goal of this project is to provide a flexible and visually appealing table component that adapts to various screen sizes, ensuring a seamless user experience across devices.
 
